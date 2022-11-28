@@ -8,3 +8,9 @@ h4{
 section:nth-child(2){
     border-bottom:5px solid red ;
 }
+section:nth-child(3) h3, section:nth-child(3) ul{
+    color: red;
+}
+section:nth-child(4) li:nth-child(2){
+    font-size: 25px;
+}
