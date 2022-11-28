@@ -1,4 +1,16 @@
-.section{
+section{
     padding-bottom: 50px;
     border-bottom: 1px solid black;
+}
+h4{
+    color: blue;
+}
+section:nth-child(2){
+    border-bottom:5px solid red ;
+}
+h3{
+    color: red;
+}
+li:nth-child(){
+    color: red;
 }
