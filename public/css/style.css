@@ -17,3 +17,7 @@ section:nth-child(4) li:nth-child(2){
 section:nth-child(5) span:nth-child(n+2){
     color: blue;
 }
+img{
+    border: 5px solid black;
+    border-radius: 50%;
+}
